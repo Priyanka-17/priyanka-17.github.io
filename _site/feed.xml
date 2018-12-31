@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-30T17:51:13-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dhonni Meye</title><subtitle>My musings and mumblings as I travel, cook and navigate the journey of life.</subtitle><entry><title type="html">Hello!</title><link href="http://localhost:4000/hello" rel="alternate" type="text/html" title="Hello!" /><published>2018-12-30T14:48:00-08:00</published><updated>2018-12-30T14:48:00-08:00</updated><id>http://localhost:4000/hello</id><content type="html" xml:base="http://localhost:4000/hello">&lt;p&gt;Hi there! Glad that you found me.&lt;/p&gt;
+
+&lt;p&gt;I am Priyanka. I am software developer by profession living in Seattle.&lt;/p&gt;
+
+&lt;p&gt;I love exploring new places, trying out new cuisines and creating posts on my experiences.&lt;/p&gt;
+
+&lt;p&gt;I would love to know you. Let me know your thoughts on this website in the comments.&lt;/p&gt;
+
+&lt;p&gt;Love,
+Priyanka&lt;/p&gt;</content><author><name></name></author><summary type="html">Hi there! Glad that you found me.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/hello.jpg" /></entry></feed>
