@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-30T17:51:13-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dhonni Meye</title><subtitle>My musings and mumblings as I travel, cook and navigate the journey of life.</subtitle><entry><title type="html">Hello!</title><link href="http://localhost:4000/hello" rel="alternate" type="text/html" title="Hello!" /><published>2018-12-30T14:48:00-08:00</published><updated>2018-12-30T14:48:00-08:00</updated><id>http://localhost:4000/hello</id><content type="html" xml:base="http://localhost:4000/hello">&lt;p&gt;Hi there! Glad that you found me.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-31T01:54:04-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Dhonni Meye</title><subtitle>My musings and mumblings as I travel, cook and navigate the journey of life.</subtitle><entry><title type="html">Hello!</title><link href="http://localhost:4000/hello" rel="alternate" type="text/html" title="Hello!" /><published>2018-12-30T14:48:00-08:00</published><updated>2018-12-30T14:48:00-08:00</updated><id>http://localhost:4000/hello</id><content type="html" xml:base="http://localhost:4000/hello">&lt;p&gt;Hi there! Glad that you found me.&lt;/p&gt;
 
 &lt;p&gt;I am Priyanka. I am software developer by profession living in Seattle.&lt;/p&gt;
 
@@ -7,4 +7,69 @@
 &lt;p&gt;I would love to know you. Let me know your thoughts on this website in the comments.&lt;/p&gt;
 
 &lt;p&gt;Love,
-Priyanka&lt;/p&gt;</content><author><name></name></author><summary type="html">Hi there! Glad that you found me.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/hello.jpg" /></entry></feed>
+Priyanka&lt;/p&gt;</content><author><name></name></author><summary type="html">Hi there! Glad that you found me.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/hello.jpg" /></entry><entry><title type="html">Travel Packing &amp;amp; Me</title><link href="http://localhost:4000/hello" rel="alternate" type="text/html" title="Travel Packing &amp; Me" /><published>2018-12-30T14:48:00-08:00</published><updated>2018-12-30T14:48:00-08:00</updated><id>http://localhost:4000/travel-checklist</id><content type="html" xml:base="http://localhost:4000/hello">&lt;p&gt;I love to travel, but my biggest concern with travelling used to be &lt;strong&gt;packing&lt;/strong&gt;. The thoughts of &lt;em&gt;What if I forget this? What if I need that?&lt;/em&gt; made me crazy. Over time, I have come to a realization - &lt;strong&gt;money&lt;/strong&gt;(preferably in the form of card), &lt;strong&gt;passport&lt;/strong&gt; and &lt;strong&gt;phone&lt;/strong&gt; are the &lt;strong&gt;MUST HAVES&lt;/strong&gt; during a trip. Rest, you can &lt;em&gt;beg, borrow or steal&lt;/em&gt;! Just kidding, what did you take the money for?&lt;/p&gt;
+
+&lt;p&gt;I travel light. I don’t remember the last time I had a carry on. Leave alone a checked bag. &lt;strong&gt;Backpack&lt;/strong&gt; - my ultimate friend. I only carry essentials. You will find below, the packing checklist I follow. Carrying some items like umbrella, swimwear, jacket depend on the location and weather conditions. Otherwise, this is it.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Debit / Credit card + Cash&lt;/li&gt;
+  &lt;li&gt;Valid ID / Passport &amp;amp; visa docs&lt;/li&gt;
+  &lt;li&gt;Electronics
+    &lt;ul&gt;
+      &lt;li&gt;Phone + Charger&lt;/li&gt;
+      &lt;li&gt;Earphones&lt;/li&gt;
+      &lt;li&gt;Power bank + Charger&lt;/li&gt;
+      &lt;li&gt;Tablet&lt;/li&gt;
+      &lt;li&gt;Camera + Charger&lt;/li&gt;
+      &lt;li&gt;Laptop + Charger&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Medicines
+    &lt;ul&gt;
+      &lt;li&gt;Fever&lt;/li&gt;
+      &lt;li&gt;Anti diarrheal&lt;/li&gt;
+      &lt;li&gt;Headache&lt;/li&gt;
+      &lt;li&gt;Muscle cramp&lt;/li&gt;
+      &lt;li&gt;Acidity&lt;/li&gt;
+      &lt;li&gt;Band aid&lt;/li&gt;
+      &lt;li&gt;Mint&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Clothes &amp;amp; accessories
+    &lt;ul&gt;
+      &lt;li&gt;Underwear&lt;/li&gt;
+      &lt;li&gt;Sleepwear&lt;/li&gt;
+      &lt;li&gt;Swimwear&lt;/li&gt;
+      &lt;li&gt;Tops&lt;/li&gt;
+      &lt;li&gt;Jacket&lt;/li&gt;
+      &lt;li&gt;Scarf&lt;/li&gt;
+      &lt;li&gt;Socks&lt;/li&gt;
+      &lt;li&gt;Slippers&lt;/li&gt;
+      &lt;li&gt;Spare spectacles&lt;/li&gt;
+      &lt;li&gt;Contact lenses&lt;/li&gt;
+      &lt;li&gt;Sunglasses&lt;/li&gt;
+      &lt;li&gt;Umbrella&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Toiletries(100 ml or less)
+    &lt;ul&gt;
+      &lt;li&gt;Hand sanitizer&lt;/li&gt;
+      &lt;li&gt;Toothbrush + Toothpaste&lt;/li&gt;
+      &lt;li&gt;Lip balm&lt;/li&gt;
+      &lt;li&gt;Red lipstick&lt;/li&gt;
+      &lt;li&gt;Cream&lt;/li&gt;
+      &lt;li&gt;Sunscreen&lt;/li&gt;
+      &lt;li&gt;Comb + Hair ties&lt;/li&gt;
+      &lt;li&gt;Safety pins&lt;/li&gt;
+      &lt;li&gt;Face wipes&lt;/li&gt;
+      &lt;li&gt;Feminine hygiene products&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Snacks&lt;/li&gt;
+  &lt;li&gt;Water&lt;/li&gt;
+  &lt;li&gt;Extra foldable bags&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Backpack I use - https://amzn.to/2BVHLEO .&lt;/p&gt;
+
+&lt;p&gt;Do you think my list is too long? What are the things that you can’t travel without? Do let me know in the comment section below.&lt;/p&gt;</content><author><name></name></author><summary type="html">I love to travel, but my biggest concern with travelling used to be packing. The thoughts of What if I forget this? What if I need that? made me crazy. Over time, I have come to a realization - money(preferably in the form of card), passport and phone are the MUST HAVES during a trip. Rest, you can beg, borrow or steal! Just kidding, what did you take the money for?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/packing-checklist.jpg" /></entry></feed>
