@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-12-31 02:00:00 -0800
-title: Travel Packing & Me
+title: Travel Packing & Me 🎒
 image: assets/images/packing-checklist.jpg
 featured: true
 hidden: false
@@ -58,6 +58,9 @@ I travel light. I don't remember the last time I had a carry on. Leave alone a c
 * Water
 * Extra foldable bags
 
-Backpack I use - https://amzn.to/2BVHLEO .
+Backpack I use - https://amzn.to/2BVHLEO.
 
 Do you think my list is too long? What are the things that you can't travel without? Do let me know in the comment section below.
+
+Love,
+Priyanka
