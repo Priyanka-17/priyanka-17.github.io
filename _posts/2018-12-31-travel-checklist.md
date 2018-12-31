@@ -6,7 +6,7 @@ image: assets/images/packing-checklist.jpg
 featured: true
 hidden: false
 categories: travel
-permalink: /hello
+permalink: /travel-checklist
 ---
 
 I love to travel, but my biggest concern with travelling used to be **packing**. The thoughts of *What if I forget this? What if I need that?* made me crazy. Over time, I have come to a realization - **money**(preferably in the form of card), **passport** and **phone** are the **MUST HAVES** during a trip. Rest, you can *beg, borrow or steal*! Just kidding, what did you take the money for?
