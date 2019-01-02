@@ -3,7 +3,7 @@ layout: post
 date: 2018-12-31 02:00:00 -0800
 title: Travel Packing & Me 🎒
 image: assets/images/packing-checklist.jpg
-featured: true
+featured: false
 hidden: false
 categories: travel
 permalink: /travel-checklist
