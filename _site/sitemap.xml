@@ -21,6 +21,14 @@
 <lastmod>2019-02-03T14:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/houston-trip</loc>
+<lastmod>2019-02-03T15:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/homemade-nutella_vegan-vegetarian-dairy-free</loc>
+<lastmod>2019-02-08T12:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -37,5 +45,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/lifestyle/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/food/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
