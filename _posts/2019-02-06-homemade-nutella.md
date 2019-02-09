@@ -21,7 +21,7 @@ Here goes the recipe.
 * Raw hazelnuts - 250 grams
 * Coconut oil(or any vegetable oil) - 1 tablespoon
 * Sweetened cocoa powder - 60 grams
-* Jaggery sugar(or coconut sugar) - 5 1tablespoons
+* Jaggery sugar(or coconut sugar) - 5 tablespoons
 * Salt - 1 pinch
 * Vanilla essence - 1 tablespoon
 
