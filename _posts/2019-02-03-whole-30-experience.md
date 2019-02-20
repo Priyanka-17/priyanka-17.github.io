@@ -3,7 +3,7 @@ title: "I completed the Whole30 challenge and I feel great \U0001F481"
 layout: post
 date: '2019-02-03 14:00:00 -0800'
 image: assets/images/whole30-experience.jpg
-featured: true
+featured: false
 categories: lifestyle
 permalink: "/whole30-experience"
 ---
@@ -37,9 +37,9 @@ Although weight-loss is not a motive of this challenge, it is worth mentioning t
   - *Snack* - Banana sprinkled with cinnamon powder
   - *Lunch* - Roasted chicken slices with lettuce, fajitas, tomato, onions, lime juice and cilantro
   - *Snack* - 3 almonds and 3 cashews and some plantain chips
-  
+
   ![Tandoori chicken.jpg]({{site.baseurl}}/assets/images/whole30-chicken.jpg)
-	
+
   - *Dinner* - Home made tandoori chicken
 
 ### How to deal with snack and sugar cravings?

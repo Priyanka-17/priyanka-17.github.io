@@ -1,27 +1,26 @@
 ---
 title: Weekend in Houston | Things to do
 layout: post
-date: '2019-02-03 15:00:00'
+date: '2019-02-19 15:00:00'
 categories: travel
 permalink: "/houston-trip_space-center-nasa-barbecue"
 image: assets/images/houston.jpg
-hidden: true
-featured: false
+featured: true
 ---
 
 Hey y'all! Howdy?
 
-Last month I visited the largest city in the second largest state  of the fourth largest country in the fifth largest planet in the Solar System. I visited Houston.
+Last month I visited the largest city in the second largest state  of the fourth largest country in the fifth largest planet in the Solar System. Gotcha!! I visited Houston.
 
 ![Airport]({{site.baseurl}}/assets/images/houston-airport.jpg)
 
-The 2 things that come to my mind when I think of Houston are barbecue and NASA. We had 2 days. We knew how it was going to be. 
+The 2 things that come to my mind when I think of Houston are barbecue and NASA. We had 2 days. We knew how it was going to be.
 
-After [check in](https://www.marriott.com/hotels/travel/houdw-aloft-houston-downtown/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2), we headed for dinner to an Oaxacan restaurant, [Xochi](https://www.xochihouston.com/). It is a very well-rated restaurant in Downtown Houston and we weren't disappointed. I was on the [Whole30 diet](http://dhonnimeye.com/whole30-experience) at that time, so I had to be careful about what I was eating. I chose to have the Cochito Istmeño(leftmost in the picture below) and it was really good. 
+After [check in](https://www.marriott.com/hotels/travel/houdw-aloft-houston-downtown/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2), we headed for dinner to an Oaxacan restaurant, [Xochi](https://www.xochihouston.com/). It is a very well-rated restaurant in Downtown Houston and we weren't disappointed. I was on the [Whole30 diet](http://dhonnimeye.com/whole30-experience) at that time, so I had to be careful about what I was eating. I chose to have the Cochito Istmeño(leftmost in the picture below) and it was really good.
 
 ![Xochi]({{site.baseurl}}/assets/images/houston-xochi.jpg)
 
-After an amazing dinner, we went to a nearby [park](https://www.discoverygreen.com/) for a walk. There was an outdoor ice-rink and a chariot offering rides to people. You must be wondering didn't the ice melt? Well, no. Apart from their own mechanisms, Houston was pretty cold in January. I thought that Houston was warm throughout the year. Not true.
+After an amazing dinner, we went to a nearby [park](https://www.discoverygreen.com/) for a walk. There was an outdoor ice-rink and a chariot offering rides to people. You must be wondering didn't the ice melt? Well, no. Apart from their own mechanisms, Houston was pretty cold in January. I always thought that Houston's warm throughout the year. Well, looks like that's not true.
 
 ![Discovery Green]({{site.baseurl}}/assets/images/houston-chariot.png)
 

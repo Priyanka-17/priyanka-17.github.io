@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-01-05 00:42:00 -0800
+date: 2019-01-05 00:42:00 -0800
 title: A few things to keep in mind before your next trip to Cancun, Mexico
 image: assets/images/cancun.jpg
 featured: false
