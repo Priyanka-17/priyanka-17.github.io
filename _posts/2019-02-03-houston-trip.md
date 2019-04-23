@@ -5,7 +5,7 @@ date: '2019-02-19 15:00:00'
 categories: travel
 permalink: "/houston-trip_space-center-nasa-barbecue"
 image: assets/images/houston.jpg
-featured: true
+featured: false
 ---
 
 Hey y'all! Howdy?
