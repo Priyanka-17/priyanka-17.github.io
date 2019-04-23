@@ -12,9 +12,7 @@ permalink: sustainable-living
 
 Happy Earth Day people!
 
-Writing a blog post about sustainable living on Earth Day resonates the same feeling as writing an ode for your beloved on Valentine’s Day. The only difference is that you can dedicate the ode and about it and not a lot will change. However, me writing this post and forgetting all about it - scary! Time is running guys, we must start acting NOW (if we haven’t already).
-
-Change is difficult. But you know what, a small change every day can make a lot of difference. If you follow a few steps towards sustainable living starting today, it will eventually make a huge impact in preventing our planet from deteriorating so fast.
+Change is difficult. But you know what? A small change every day can make a lot of difference. If you follow a few steps towards sustainable living starting today, it will eventually make a huge impact in preventing our planet from deteriorating so fast.
 
 I will share a few easy steps with you today which will help you to begin a sustainable lifestyle without trying too hard. 
 * **Always carry a reusable bag** - Wherever you are going, carry a reusable bag. Put it in your backpack, pocket or carry it by itself. I have a white cloth bag which I have been using since 2014. I carry it with me almost all the time. It comes in handy if I go grocery shopping after work (happens very frequently) or choose to buy takeout for dinner. When I am travelling, I always make sure to carry an extra bag with me.
