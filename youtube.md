@@ -1,15 +1,15 @@
 ---
-layout: page
 title: YouTube
-permalink: /youtube/
+layout: page
+permalink: "/youtube/"
 ---
 
 Checkout my YouTube channel **dhonni meye** [here](https://www.youtube.com/channel/UC1txbrDxS1EpyQLHGI7EAzA).
 
 Please click on the red subscribe button to subscribe to my channel. If you subcribe to my channel, you will be notified everytime I upload a new content.
 
-Latest video - [No thumbs challenge bloopers](https://youtu.be/wl-EsZ-umew).
-<iframe width="620" height="460" src="https://www.youtube.com/embed/wl-EsZ-umew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Latest video - [Banana-oats-berry pancakes](https://youtu.be/A1T45j2_qCc).
+<iframe width="620" height="460" src="https://www.youtube.com/embed/A1T45j2_qCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 These are the [list of videos](https://www.youtube.com/channel/UC1txbrDxS1EpyQLHGI7EAzA/videos) on my channel.

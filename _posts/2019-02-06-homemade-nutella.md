@@ -5,7 +5,7 @@ date: '2019-02-08 12:00:00'
 categories: food
 permalink: "/homemade-nutella_vegan-vegetarian-dairy-free"
 image: assets/images/nutella.jpg
-featured: true
+featured: false
 ---
 
 Did you know that 100 grams of  palm oil consists of 45 grams of saturated fats whereas 100g grams of hazelnuts consists of only 4.5 grams of saturated fats? Why do you need to know this? Well, look at the picture below.
